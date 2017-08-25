@@ -1,0 +1,53 @@
+* {
+    margin: 0 auto;
+    padding: 0
+}
+
+.work-fild {
+    height: 800px;
+    
+}
+
+header {
+    background: #000 none repeat scroll 0 0;
+    color: #fff;
+    text-align: center;
+}
+
+.birthDate,
+.birthYear,
+.birthMonth.span2 {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.result-btn {
+    text-align: center;
+}
+
+footer {
+    background: #ddd none repeat scroll 0 0;
+    font-size: 19px;
+    height: 60px;
+    width: 100%;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
+
